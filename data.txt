@@ -1,3 +1,3 @@
-Name: Ironhacker
-Age: 25
-Favorite Color: Yellow
+Name: Juan
+Age: 22
+Favorite Color: blue
